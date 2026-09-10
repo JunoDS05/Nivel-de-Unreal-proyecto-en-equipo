@@ -1,5 +1,6 @@
 # Nivel-de-Unreal-proyecto-en-equipo
 Nivel de parkour desarrollado en Unreal Engine
+Esta es una prueba sencilla de un nivel de parkour, donde se intenta usar los materiales de bloques básicos y texturas para darle una nueva imagen al nivel no solo ser un nivel plano.
   
   Aburto Herrera Suheily Belén 
  
